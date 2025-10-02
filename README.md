@@ -12,7 +12,7 @@ This portfolio demonstrates my learning process in areas such as:
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 * **TryHackMe Writeups** → Notes and lessons learned from practical cybersecurity labs
 * **HackTheBox** → Retired machine writeups (ethical & no spoilers beyond public info)
