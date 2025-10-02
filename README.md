@@ -18,7 +18,7 @@ This portfolio demonstrates my learning process in areas such as:
 * **HackTheBox** → Retired machine writeups (ethical & no spoilers beyond public info)
 ---
 
-## 🛠️ Technologies & Tools I Work With
+## Technologies & Tools I Work With
 
 * **Operating Systems**: Linux, Windows Server, Kali Linux
 * **Networking & Security**: Wireshark, Nmap, Nessus
