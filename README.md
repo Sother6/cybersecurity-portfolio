@@ -27,7 +27,7 @@ This portfolio demonstrates my learning process in areas such as:
 
 ---
 
-## 🌱 Current Goals
+## Current Goals
 
 * Build hands-on SOC analyst skills
 * Develop cloud security expertise (Azure Security Engineer path)
