@@ -2,14 +2,13 @@
 
 **Date:** Oct 2025
 
-I have done some of the TryHackMe challenges before starting this github repository.
-
+I have done some of the TryHackMe challenges before starting this github repository.\n
 I will mark them starting with "0p{name}"
 
 |:toolbox:|
 ☕
 
-
+😊
 ## Key Learnings
 - Difference between TCP vs UDP
 - How to capture and analyze packets in Wireshark
