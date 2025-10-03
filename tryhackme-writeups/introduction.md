@@ -2,7 +2,7 @@
 
 **Date:** Oct 2025
 
-I have done some of the TryHackMe challenges before starting this github repository.\n
+I have done some of the TryHackMe challenges before starting this github repository.\
 I will mark them starting with "0p{name}"
 
 |:toolbox:|
