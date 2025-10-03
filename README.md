@@ -21,8 +21,8 @@ This portfolio demonstrates my learning process in areas such as:
 ## Technologies & Tools I Work With
 
 * **Operating Systems**: Linux, Windows Server, Kali Linux
-* **Networking & Security**: Wireshark, Nmap, Nessus
-* **SIEM/Monitoring**: Splunk, Wazuh, ELK stack
+* **Networking & Security**: Wireshark, Nmap
+* **SIEM/Monitoring**: Wazuh, Splunk
 * **Scripting**: Python, PowerShell, Bash
 
 ---
@@ -32,3 +32,4 @@ This portfolio demonstrates my learning process in areas such as:
 * Build hands-on SOC analyst skills
 * Develop cloud security expertise (Azure Security Engineer path)
 * Contribute to open-source security projects
+* Getting cyber security related job
