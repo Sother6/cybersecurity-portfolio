@@ -1,5 +1,5 @@
 # Progress 
-There are so many interesting things about cybersecurity that I do not know what to focus on. /
+There are so many interesting things about cybersecurity that I do not know what to focus on. \
 
 ### Completed
     * Sy0-601           Comptia Security+
