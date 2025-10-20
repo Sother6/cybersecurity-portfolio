@@ -4,11 +4,16 @@ There are so many interesting things about cybersecurity that I do not know what
 ### Completed
 <details>
 <summary> Sy0-601   Comptia Security+</summary>
-The CompTIA Security+ (SY0-601) has been the backbone of my cybersecurity knowledge so far. 
+
+The backbone of my cybersecurity knowledge so far. 
 
 I really enjoyed it. It not only gave me a broad view of the cybersecurity field, but also feels more comprehensive and extensive than many people realize.
 
-    * AZ-900            Microsoft Azure Fundamentals
+<details>
+<summary>AZ-900            Microsoft Azure Fundamentals</summary>
+
+My second certification. I felt I needed a Microsoft certification of some kind. I really prefer Linux, but Microsoft dominates and it was easy to pick up.
+
 </details>
 <details open>
 <summary> In progress </summary>
