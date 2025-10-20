@@ -3,9 +3,9 @@ There are so many interesting things about cybersecurity that I do not know what
 
 <details>
 <summary> ### Completed </summary>
-- Sy0-601           Comptia Security+
+    - Sy0-601           Comptia Security+
 
-* AZ-900            Microsoft Azure Fundamentals
+    * AZ-900            Microsoft Azure Fundamentals
 </details>
 
 ### In progress
