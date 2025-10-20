@@ -1,4 +1,4 @@
-# Progress 
+# Current and future qualifications
 There are so many interesting things about cybersecurity that I do not know what to focus on.
 
 ### Completed
@@ -12,11 +12,14 @@ There are so many interesting things about cybersecurity that I do not know what
 </details>
 <details>
 <summary>AZ-900            Microsoft Azure Fundamentals</summary>
-
-My second certification. I felt I needed a Microsoft certification of some kind. I really prefer Linux, but Microsoft dominates and it was easy to pick up.
-
+>My second certification. I felt I needed a Microsoft certification of some kind. I really prefer Linux, but Microsoft dominates and it was easy to pick up.
 </details>
 <details open>
+
+---
+
+### In progress
+
 <summary> In progress </summary>
 
     * ISC2 CC           Certified in Cybersecurity
