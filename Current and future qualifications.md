@@ -21,7 +21,6 @@ I really prefer Linux, but Microsoft dominates and it was easy to pick up.
 ```
 </details>
 
-
 ---
 
 ### In progress
@@ -30,12 +29,10 @@ I really prefer Linux, but Microsoft dominates and it was easy to pick up.
 <summary> ISC2 CC   Certified in Cybersecurity </summary>
 
 ```
-
 Easy after Comptia Security+, but I really like focus on:
 (IRP) Incident Response Plan, (BCP) Business Continuity Plan and
 (DRP) Disaster Recovery Plan.
 I want to explore more.
-
 ```
 
     * 
@@ -45,7 +42,8 @@ I want to explore more.
 <summary> SC-900    Microsoft Security, Compliance, and Identity Fundamentals </summary>
 
 ```
-Continuation of Microsoft Fundamental certifications. Also easy after Comptia Security+. I just need time to go through the material.
+Continuation of Microsoft Fundamental certifications. Also easy after Comptia Security+. 
+I just need time to go through the material.
 I watch Pete Zerger SC-900.
 ```
 </details>
@@ -54,7 +52,8 @@ I watch Pete Zerger SC-900.
 <summary> HTB   Hack The Box - labs writeups </summary>
 
 ```
-I think I have finished 7 labs before that github idea. I will come back to it, once I finish CC and SC-900.
+I think I have finished 7 labs before that github idea. 
+I will come back to it, once I finish CC and SC-900.
 I will document the ones I finish as well.
 ```
 </details>
