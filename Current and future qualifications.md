@@ -1,9 +1,9 @@
 # Progress 
 There are so many interesting things about cybersecurity that I do not know what to focus on.
 
-<details open>
-<summary> Completed </summary>
-
+### Completed
+<details>
+<summary> Sy0-601   Comptia Security+</summary>
     * Sy0-601           Comptia Security+
     * AZ-900            Microsoft Azure Fundamentals
 </details>
@@ -14,6 +14,8 @@ There are so many interesting things about cybersecurity that I do not know what
     * SC-900            Microsoft Security, Compliance, and Identity Fundamentals
     * HTB               Hack The Box - labs writeups
 </details>
+---
+### Easy but possibly time-consuming
 <details open>
 <summary>Easy but possibly time-consuming</summary>
 
