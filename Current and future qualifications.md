@@ -3,15 +3,19 @@ There are so many interesting things about cybersecurity that I do not know what
 
 <details>
 <summary> ### Completed </summary>
-    - Sy0-601           Comptia Security+
+    * Sy0-601           Comptia Security+
 
     * AZ-900            Microsoft Azure Fundamentals
 </details>
 
-### In progress
+<details>
+<summary> ### In progress </summary>
     * ISC2 CC           Certified in Cybersecurity
+
     * SC-900            Microsoft Security, Compliance, and Identity Fundamentals
+
     * HTB               Hack The Box - labs writeups
+</details>
 
 ### Easy but possibly time-consuming
     * Python            Progamming Language
