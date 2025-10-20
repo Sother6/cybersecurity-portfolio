@@ -7,13 +7,8 @@ There are so many interesting things about cybersecurity that I do not know what
 
 ```
 The backbone of my cybersecurity knowledge so far. 
-I really enjoyed it. It not only gave me a broad view of the cybersecurity field, but also feels more comprehensive and extensive than many people realize.
-```
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+I really enjoyed it. It not only gave me a broad view of the cybersecurity field,\
+but also feels more comprehensive and extensive than many people realize.
 ```
 
 
