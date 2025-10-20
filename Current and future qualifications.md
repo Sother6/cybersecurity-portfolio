@@ -11,6 +11,7 @@ I really enjoyed it. It not only gave me a broad view of the cybersecurity field
 but also feels more comprehensive and extensive than many people realize.
 ```
 </details>
+
 <details>
 <summary>AZ-900     Microsoft Azure Fundamentals</summary>
 
@@ -23,7 +24,6 @@ I really prefer Linux, but Microsoft dominates and it was easy to pick up.
 ---
 
 ### In progress
-
 <details>
 <summary> ISC2 CC   Certified in Cybersecurity </summary>
 
@@ -33,9 +33,7 @@ Easy after Comptia Security+, but I really like focus on:
 (DRP) Disaster Recovery Plan.
 I want to explore more.
 ```
-
 </details>
-
 <details>
 <summary> SC-900    Microsoft Security, Compliance, and Identity Fundamentals </summary>
 
@@ -52,23 +50,43 @@ I watch Pete Zerger SC-900.
 ```
 I think I have finished 7 labs before that github idea. 
 I will come back to it, once I finish CC and SC-900.
-I will document the ones I finish as well.
+I will document the ones I completed as well.
 ```
 </details>
-
 
 ---
 
 ### Easy but possibly time-consuming
-<details open>
-<summary>Easy but possibly time-consuming</summary>
 
+<details>
+<summary> Comptia Linux+    Linux Certification </summary>
 
-    * Python            Progamming Language
-    * Burp Suite        Tool for web application security
-    * Comptia Linux+    Linux Certification
+```
+Years of using linux with no certification.
+There is new (as per Oct'25) Comptia Linux+ certification with elements of AI.
+```
 </details>
-<details open>
+
+
+<details>
+<summary>Python     Progamming Language</summary>
+
+```
+https://learnpython.org/
+https://pll.harvard.edu/subject/python
+So much to explore.
+```
+</details>
+
+<details>
+<summary> Burp Suite    Tool for web application security </summary>
+
+```
+Barely scratched the surface. It looks like it's worth the effort.
+```
+</details>
+
+<details >
 <summary>Future challenges I am looking forward to</summary>
 
 
