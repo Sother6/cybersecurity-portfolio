@@ -62,11 +62,11 @@ I will document the ones I completed as well.
 ### Easy but possibly time-consuming
 
 <details>
-<summary> Comptia Linux+    Linux Certification </summary>
+<summary> Comptia Linux+ Certification </summary>
 
 ```
 Years of using linux with no certification.
-There is new (as per Oct'25) Comptia Linux+ certification with elements of AI.
+There is new (as per Jult'25) Comptia Linux+ V8 certification with elements of AI.
 ```
 </details>
 
