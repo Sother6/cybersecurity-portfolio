@@ -102,7 +102,11 @@ Should be easy, just when?
 <summary>CISM   ISACA Certified Information Security Manager</summary>
 
 ```
-ISC2 CC deepen my interest in IRP, BCP and DRP
+ISC2 CC deepen my interest in IRP, BCP and DRP.
+
+Prerequisites:  having a minimum of five years of professional work experience in 
+information security management (DOH!)
+
 Just look at 4 main domains of CISM:
 ```
 ![Test](https://www.infosectrain.com/wp-content/uploads/2025/04/cism-domains-1.png)
