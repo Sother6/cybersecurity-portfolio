@@ -18,7 +18,7 @@ This portfolio demonstrates my learning process in areas such as:
 * **TryHackMe Writeups** → Notes and lessons learned from practical cybersecurity labs
 * **HackTheBox** → Retired machine writeups (ethical & no spoilers beyond public info)
 ---
-
+<!--
 ## Technologies & Tools I Work With
 
 * **Operating Systems**: Linux
@@ -27,6 +27,7 @@ This portfolio demonstrates my learning process in areas such as:
 * **Scripting**: Python, PowerShell, Bash
 
 ---
+-->
 
 ## Current Goals
 
