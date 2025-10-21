@@ -101,10 +101,11 @@ Should be easy, just when?
 <details >
 <summary>CISM   ISACA Certified Information Security Manager</summary>
 
+![Test](../cism-domains-1.png)
+
 ```
 ISC2 CC  
 
-![Test]
-(../cism-domains-1.png)
+
 ```
 </details>
