@@ -86,9 +86,22 @@ Barely scratched the surface. It looks like it's worth the effort.
 ```
 </details>
 
+<details>
+<summary> Ansible    Configuration management </summary>
+
+```
+Should be easy, just when?
+```
+</details>
+
+
+---
+
+### Future challenges I am looking forward to
 <details >
-<summary>Future challenges I am looking forward to</summary>
+<summary>CISM   ISACA Certified Information Security Manager</summary>
 
-
-    * CISM              ISACA Certified Information Security Manager
+```
+ISC2 CC  
+```
 </details>
