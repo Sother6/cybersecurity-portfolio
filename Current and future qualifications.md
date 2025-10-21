@@ -29,7 +29,8 @@ I really prefer Linux, but Microsoft dominates and it was easy to pick up.
 
 ```
 Easy after Comptia Security+, but I really like focus on:
-(IRP) Incident Response Plan, (BCP) Business Continuity Plan and
+(IRP) Incident Response Plan, 
+(BCP) Business Continuity Plan and
 (DRP) Disaster Recovery Plan.
 I want to explore more.
 ```
