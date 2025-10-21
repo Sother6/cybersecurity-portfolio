@@ -21,8 +21,8 @@ This portfolio demonstrates my learning process in areas such as:
 
 ## Technologies & Tools I Work With
 
-* **Operating Systems**: Linux, Windows Server, Kali Linux
-* **Networking & Security**: Wireshark, Nmap
+* **Operating Systems**: Linux
+* **Networking & Security**: Nmap, Wireshark
 * **SIEM/Monitoring**: Wazuh, Splunk
 * **Scripting**: Python, PowerShell, Bash
 
