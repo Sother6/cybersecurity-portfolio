@@ -103,5 +103,8 @@ Should be easy, just when?
 
 ```
 ISC2 CC  
+
+![Test]
+(../cism-domains-1.png)
 ```
 </details>
